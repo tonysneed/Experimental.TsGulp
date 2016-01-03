@@ -1,4 +1,4 @@
-# Setting Up a TypeScript with Gulp
+# Setting Up TypeScript with Gulp
 
 ## Prerequisites
 
