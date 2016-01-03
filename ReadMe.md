@@ -15,7 +15,6 @@
 	```shell
 	build
     src
-    test
 	```
     
 2. Open the project folder with VS Code
