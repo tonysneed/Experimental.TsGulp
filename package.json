@@ -1,0 +1,24 @@
+{
+  "name": "Experimental.TsGulp",
+  "version": "1.0.0",
+  "description": "1. Install [Node.js](https://nodejs.org/en)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonysneed/Experimental.TsGulp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonysneed/Experimental.TsGulp/issues"
+  },
+  "homepage": "https://github.com/tonysneed/Experimental.TsGulp#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-typescript": "^2.10.0"
+  }
+}
